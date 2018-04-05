@@ -1,4 +1,4 @@
-# awesome-Railstack
+# Awesome Railstack
 
 ## Introduction
 
