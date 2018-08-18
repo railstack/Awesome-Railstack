@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In fact all the frameworks applies to the rule *Convention over Configuration* intentionally or spontaneously, and Ruby on Rails emphasizes it especilly.
+In fact all the frameworks apply to the rule *Convention over Configuration* intentionally or spontaneously, and Ruby on Rails emphasizes it especilly.
 
 After Rails 5.1 implemented webpacker to manage frondend environment, it become more like a *tool suite* of managing web development in my view, though it's also (the best) one of elegant web frameworks in the world.
 
