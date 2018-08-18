@@ -8,7 +8,7 @@ After Rails 5.1 implemented webpacker to manage frondend environment, it become 
 
 So I think Rails is more like an integrated web programming environment than just a simple framework at present, it supports the full stack more completely. Now and then there arouses some arguing on Rails' performence, comparing to other languages or frameworks, but it doesn't matter. Rails can do more things than before, at least it can help you managing your frontend programming, splitting a monolithic Rails application into frontend and backend easily.
 
-## What's awesome-Railstack?
+## What's Awesome-Railstack?
 
 Awesome-Railstack is a curated list of awesome Rails gems and tools that charactorizes Rails' more as a convention/configuration tool of an integrated web programming. Its best and biggest example is [webpacker](https://github.com/rails/webpacker).
 
