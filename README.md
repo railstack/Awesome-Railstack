@@ -1,5 +1,10 @@
 # Awesome Railstack
 
+> In every kitchen you enter, you never know where the knives and plates are located. But with Ruby on Rails, you enter the kitchen and 
+> it's always in the same place, and we want to stick to that.
+>  
+> *GitLab CEO Sid Sijbrandij* 
+
 ## Introduction
 
 In fact all the frameworks apply to the rule *Convention over Configuration* intentionally or spontaneously, and Ruby on Rails emphasizes it especially.
