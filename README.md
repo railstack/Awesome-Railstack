@@ -7,7 +7,7 @@
 
 ## Introduction
 
-> ...The idea is that if you configure your applications in the very same way most of the time then this should be the default way. Thus, > explicit configuration would be needed only in those cases where you can't follow the standard convention.
+> ...The idea is that if you configure your applications in the very same way most of the time then this should be the default way. Thus,   explicit configuration would be needed only in those cases where you can't follow the standard convention.
 > 
 > *Rails Guides* Active Record Basics
 
