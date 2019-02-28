@@ -7,6 +7,10 @@
 
 ## Introduction
 
+> ...The idea is that if you configure your applications in the very same way most of the time then this should be the default way. Thus, > explicit configuration would be needed only in those cases where you can't follow the standard convention.
+> 
+> *Rails Guides* Active Record Basics
+
 In fact all the frameworks apply to the rule *Convention over Configuration* intentionally or spontaneously, and Ruby on Rails emphasizes it especially.
 
 After Rails 5.1 implemented webpacker to manage frondend environment, it become more like a *tool suite* of managing web development in my view, though it's also (the best) one of elegant web frameworks in the world.
