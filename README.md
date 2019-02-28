@@ -9,7 +9,7 @@
 
 > ...The idea is that if you configure your applications in the very same way most of the time then this should be the default way. Thus,   explicit configuration would be needed only in those cases where you can't follow the standard convention.
 > 
-> *Rails Guides* Active Record Basics
+> *Rails Guides* [Active Record Basics](https://guides.rubyonrails.org/active_record_basics.html#convention-over-configuration-in-active-record)
 
 In fact all the frameworks apply to the rule *Convention over Configuration* intentionally or spontaneously, and Ruby on Rails emphasizes it especially.
 
